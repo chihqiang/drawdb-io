@@ -51,13 +51,6 @@ npm install
 npm run build
 ```
 
-### Docker 构建
-
-```bash
-docker build -t drawdb .
-docker run -p 3000:80 drawdb
-```
-
 ## 功能详情
 
 ### 实体关系建模
